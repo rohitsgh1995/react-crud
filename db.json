@@ -1,0 +1,23 @@
+{
+  "fruits": [
+    {
+      "name": "Laptop",
+      "quantity": 56,
+      "price": 55555,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/428/428001.png",
+      "id": 1
+    },
+    {
+      "name": "Future Laptop",
+      "quantity": 56,
+      "price": 4564555,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/428/428001.png",
+      "id": 2
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.learmoreseekmore.com/2022/09/reactjs-v18-crud-example.html"
+    }
+  ]
+}
